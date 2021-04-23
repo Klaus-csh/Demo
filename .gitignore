@@ -3,3 +3,16 @@
 
 # Ada Library Information
 *.ali
+.Rproj.user
+
+# log
+
+*.log
+
+# Machine
+
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
