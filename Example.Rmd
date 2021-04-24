@@ -17,3 +17,8 @@ In this section we are looking at the data using different visualzations.
 
 # Statistical analysis
 
+```{r}
+c(1:10)
+```
+
+
