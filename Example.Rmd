@@ -16,4 +16,7 @@ This is my introduction section where i give a background of my problem question
 
 # Statistical analysis
 
+```{r}
+c(1:10)
+```
 
