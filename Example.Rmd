@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 This is my introduction section where i give a background of my problem question
 
 # Exploratary data analysis
+
+In this section we are looking at the data using different visualzations.
+
+# Statistical analysis
+
